@@ -59,7 +59,5 @@ Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=kritisubedi1&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=kritisubedi1&theme=tokyonight"/>
 </p>
-
-
