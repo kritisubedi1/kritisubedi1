@@ -1,4 +1,3 @@
-```md id="x9p2mv"
 <h1 align="center">Hi 👋, I'm Kriti Subedi</h1>
 
 <h3 align="center">
@@ -17,12 +16,12 @@ Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning Java, Spring Boot & Backend Development
-- 💻 Interested in Full Stack Development & AI/ML
-- 🚀 Building real-world software projects
-- 💬 Ask me about Java, Python, REST APIs
-- 📫 Reach me at: kreetesubeede123@gmail.com
-- ⚡ Fun fact: Building projects that solve problems—one line of code at a time
+* 🌱 Currently learning Java, Spring Boot & Backend Development
+* 💻 Interested in Full Stack Development & AI/ML
+* 🚀 Building real-world software projects
+* 💬 Ask me about Java, Python, REST APIs
+* 📫 Reach me at: [kreetesubeede123@gmail.com](mailto:kreetesubeede123@gmail.com)
+* ⚡ Fun fact: Building projects that solve problems—one line of code at a time
 
 ---
 
@@ -46,10 +45,10 @@ Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
 
 ## 🚀 Current Projects
 
-- 🔍 Review Guard – Fake Review Detection System
-- ☕ Java Practice Projects
-- 🌐 Frontend Web Development Projects
-- 🤖 AI/ML Learning Projects
+* 🔍 Review Guard – Fake Review Detection System
+* ☕ Java Practice Projects
+* 🌐 Frontend Web Development Projects
+* 🤖 AI/ML Learning Projects
 
 ---
 
@@ -62,4 +61,3 @@ Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritisubedi1&theme=tokyonight"/>
 </p>
-```
