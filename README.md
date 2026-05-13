@@ -58,4 +58,9 @@ Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
 <img src="https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true&theme=tokyonight"/>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=kritisubedi1&theme=tokyonight"/>
+```html
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=kritisubedi1&theme=tokyonight" />
+</p>
+```
+
