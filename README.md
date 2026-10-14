@@ -1,171 +1,152 @@
-# Hi, I'm Kriti Subedi 👋
+<div align="center">
 
-### Software Engineer | Java & Spring Boot | Backend Development | AI-Enabled Applications
+# Kriti Subedi
 
-🎓 M.Eng. Software Engineering — Memorial University of Newfoundland  
-💻 Building backend, full-stack, and AI-enabled applications  
-🤖 Interested in LLM integration, intelligent systems, and practical AI  
-☁️ Growing in cloud, distributed systems, and production software engineering  
+### Software Engineer • Java & Spring Boot • Full Stack • AI-Enabled Applications
+
+Building reliable software, intelligent applications, and modern web experiences.
+
+📍 Newfoundland and Labrador, Canada
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I'm a Software Engineering master's student with hands-on experience building web applications, backend services, APIs, and AI-enabled systems.
+I'm a Software Engineering master's student at Memorial University of Newfoundland with hands-on experience building production web applications, backend services, APIs, and AI-enabled systems.
 
-I enjoy solving real-world problems through software and turning ideas into reliable, maintainable applications.
+I enjoy turning real-world problems into maintainable software and working across the full development lifecycle — from implementation and testing to collaboration, deployment, and iteration.
 
-My main focus areas are:
+### Current focus
 
-- Java & Spring Boot backend development
-- REST APIs and full-stack development
-- Cloud-native application development
-- AI-enabled software systems
-- Software testing and engineering quality
+- Backend development with Java & Spring Boot
+- Full-stack application development
+- REST APIs and software architecture
+- AI-enabled applications and LLM integration
+- Cloud-native development
 - System design and distributed systems
 
-I'm currently strengthening my skills in advanced Java, Spring Boot, AWS, system design, AI integration, and production-ready software development while preparing for full-time software engineering opportunities in Canada.
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Engineering Stack
 
-### Backend
+**Backend**  
 Java • Spring Boot • REST APIs • Spring Security • JPA • Hibernate
 
-### Frontend
+**Frontend**  
 React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis
+**Data**  
+PostgreSQL • MySQL • MongoDB
 
-### AI / ML
-Python • Machine Learning Fundamentals • NLP • LLM Integration
+**AI / ML**  
+Python • Machine Learning • NLP • LLM Integration
 
-### Cloud & DevOps
-AWS • Docker • GitHub Actions • Jenkins • CI/CD
+**Cloud & DevOps**  
+AWS • Docker • GitHub Actions • CI/CD
 
-### Testing
+**Testing**  
 JUnit • Mockito • API Testing • Software Verification & Validation
 
-### Tools
+**Tools**  
 Git • GitHub • Postman • Maven • IntelliJ IDEA • VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Selected Work
 
-### 🤖 ClearTech — AI Technical Interview Platform
+## 🤖 ClearTech — Fairness-Aware Technical Interview Coach
 
-AI-powered interview coaching platform designed to evaluate technical-answer quality separately from communication delivery.
+An AI-assisted technical interview platform designed to evaluate technical-answer quality separately from communication delivery.
 
-**Highlights**
-- Technical-question workflow
+### What it explores
+- AI-assisted technical answer evaluation
 - Audio-based interview sessions
-- Automated report generation
-- AI-assisted evaluation
-- Fairness-aware design
+- Automated reporting
+- Communication analysis
+- Fairness-aware assessment design
 
-**Tech:** Python • REST APIs • AI/NLP • Web Application Development
+**Tech:** Python • REST APIs • AI/NLP • Web Development
 
 ---
 
-### 🔍 Review Guard — Fake Review Detection System
+## 🔍 Review Guard — Fake Review Detection
 
-Machine-learning application that detects whether online reviews are genuine or fake using NLP and TF-IDF based classification models.
+Machine-learning system for classifying online reviews as genuine or fake using NLP and text-classification techniques.
 
-**Highlights**
-- Text preprocessing and NLP pipeline
-- Multiple ML models
-- Prediction API
-- Batch processing
+### Highlights
+- Text preprocessing pipeline
+- TF-IDF feature extraction
+- Multiple classification models
+- Single prediction API
+- Batch prediction support
 - Model evaluation
 
-**Tech:** Python • Flask • Scikit-learn • NLP • TF-IDF • REST API
+**Tech:** Python • Flask • Scikit-learn • NLP • TF-IDF
 
 ---
 
-### ♟️ Chess IntelliPlay
+## ♟️ Chess IntelliPlay
 
-Interactive AI-assisted game project focused on search and pathfinding logic.
-
-**Highlights**
-- Algorithm-based decision making
-- Interactive game interface
-- JavaScript-based implementation
+Interactive algorithm-focused application exploring intelligent decision-making and pathfinding.
 
 **Tech:** JavaScript • Algorithms • Web Development
 
 ---
 
-### 🛒 MUN Marketplace
+## 🛒 MUN Marketplace
 
-Marketplace-style web project built for users to browse and interact with listings.
-
-**Highlights**
-- User-facing web interface
-- Responsive layout
-- Marketplace-style functionality
+Marketplace-style web application designed for browsing and interacting with local listings.
 
 **Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### Full Stack Developer Intern — EsseReale Robotics
+## Full Stack Developer Intern — EsseReale Robotics
 
-Contributed to a production website platform using modern full-stack technologies and collaborative software-development workflows.
+Contributed to the development of a production web platform for the Yo-Go mobility product.
 
-**Highlights**
-- Built and improved responsive web interfaces
-- Worked with Next.js, React, TypeScript, and Tailwind CSS
-- Contributed through GitHub issues, branches, and pull requests
-- Worked with CMS-driven content workflows
-- Supported website performance and deployment workflows
-- Contributed to product-focused storytelling and interactive web experiences
+### Selected contributions
 
----
-
-## 📚 Currently Learning
-
-- Advanced Java
-- Spring Boot
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- AWS
-- Docker
-- Kubernetes fundamentals
-- AI application development
-- RAG and vector databases
+- Built and refined responsive interfaces using Next.js, React, TypeScript, and Tailwind CSS
+- Worked with GitHub feature branches, issues, pull requests, and collaborative code review
+- Contributed to CMS-driven content workflows
+- Supported production-focused website improvements
+- Worked on product-focused visual storytelling and interactive web experiences
+- Participated in testing and deployment workflows
 
 ---
 
-## 🎯 Career Focus
+# 🧠 What I'm Building Toward
 
-I'm currently preparing for opportunities in:
+I'm currently deepening my knowledge in:
 
-- Software Engineering
-- Java Backend Development
-- Full-Stack Development
-- Cloud Application Development
-- AI-Enabled Software Engineering
+`Advanced Java` • `Spring Boot` • `DSA` • `System Design` • `AWS`
+
+`Docker` • `Distributed Systems` • `AI Application Development`
+
+`RAG` • `Vector Search`
 
 ---
 
-## 📈 GitHub Activity
-
-![Kriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true&hide_border=true)
+# 📊 Development Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kritisubedi1&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect
 
-I'm open to software engineering opportunities, technical collaborations, and interesting software projects.
+I'm interested in:
 
-📍 Newfoundland and Labrador, Canada  
-💼 LinkedIn: ADD-YOUR-LINK  
-📧 Email: ADD-YOUR-PROFESSIONAL-EMAIL
+- Software Engineering
+- Backend Engineering
+- Full-Stack Development
+- AI-Enabled Applications
+- Technical collaborations
+
+**LinkedIn:** add-your-link  
+**Email:** add-your-professional-email
