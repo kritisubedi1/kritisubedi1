@@ -6,8 +6,7 @@
      ============================================================ -->
 
 <div align="center">
-
-<img src="assets/header.svg" alt="Kriti Subedi — Software Engineer, Java & Spring Boot, Full Stack, AI-Enabled Applications" width="100%"/>
+<img src="header.svg"alt="Kriti Subedi — Software Engineer, Java & Spring Boot, Full Stack, AI-Enabled Applications" width="100%"/>
 
 <br/>
 
