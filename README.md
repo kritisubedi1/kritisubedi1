@@ -2,7 +2,6 @@
      Profile README for github.com/kritisubedi1
      Repo must be named: kritisubedi1/kritisubedi1
      header.svg sits in the repo root
-     Replace every YOUR_... placeholder before publishing.
      ============================================================ -->
 
 <div align="center">
@@ -90,7 +89,7 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
       <img src="https://img.shields.io/badge/NLP-E8B46B?style=flat-square"/>
       <img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/kritisubedi1/YOUR_CLEARTECH_REPO"><b>View repo →</b></a>
+      <a href="https://github.com/kritisubedi1/cleartech"><b>View repo →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 Review Guard</h3>
@@ -105,7 +104,7 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <br/><br/>
-      <a href="https://github.com/kritisubedi1/YOUR_REVIEWGUARD_REPO"><b>View repo →</b></a>
+      <a href="https://github.com/Review-Guard/Review"><b>View repo →</b></a>
     </td>
   </tr>
   <tr>
@@ -116,7 +115,7 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Algorithms-1F2328?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/kritisubedi1/YOUR_CHESS_REPO"><b>View repo →</b></a>
+      <a href="https://github.com/kritisubedi1/Chess_IntelliPlay"><b>View repo →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 MUN Marketplace</h3>
@@ -126,7 +125,6 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <br/><br/>
-      <a href="https://github.com/kritisubedi1/YOUR_MARKETPLACE_REPO"><b>View repo →</b></a>
     </td>
   </tr>
 </table>
