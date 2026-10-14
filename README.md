@@ -181,8 +181,6 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
 
 <img src="https://streak-stats.demolab.com/?user=kritisubedi1&hide_border=true&background=14110F&ring=E8B46B&fire=E8B46B&currStreakLabel=E8B46B&sideLabels=E9DFD0&dates=7D7366&currStreakNum=F5EFE6&sideNums=F5EFE6&stroke=3A3129" width="85%" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritisubedi1&bg_color=14110F&color=E9DFD0&line=E8B46B&point=F5EFE6&area=true&area_color=E8B46B&hide_border=true" width="100%" alt="Contribution graph"/>
-
 </div>
 
 ---
@@ -196,8 +194,5 @@ I'm open to **software engineering, backend, full-stack, and AI-application role
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-E8B46B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=kritisubedi1&color=E8B46B&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 </div>
