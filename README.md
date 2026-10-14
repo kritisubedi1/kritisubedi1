@@ -1,63 +1,132 @@
-<h1 align="center">Hi 👋, I'm Kriti Subedi</h1>
+# Hi, I'm Kriti Subedi 👋
 
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | REST APIs | Python | AI/ML
-</h3>
+### Software Engineer | Java & Spring Boot | Backend Development | AI-Enabled Applications
 
-<h4 align="center">
-🎓 Software Engineering Student at Memorial University of Newfoundland
-</h4>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
+🎓 M.Eng. Software Engineering — Memorial University of Newfoundland  
+💻 Building scalable backend and full-stack applications  
+🤖 Exploring AI-enabled software, LLM integration, RAG, and intelligent systems  
+☁️ Interested in cloud-native development, distributed systems, and production software engineering
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning Java, Spring Boot & Backend Development
-* 💻 Interested in Full Stack Development & AI/ML
-* 🚀 Building real-world software projects
-* 💬 Ask me about Java, Python, REST APIs
-* 📫 Reach me at: [kreetesubeede123@gmail.com](mailto:kreetesubeede123@gmail.com)
-* ⚡ Fun fact: Building projects that solve problems—one line of code at a time
+I'm a Software Engineering master's student with hands-on experience building modern web applications, backend services, APIs, and AI-enabled systems.
+
+I enjoy solving real-world problems using software and turning ideas into reliable, maintainable applications.
+
+My primary focus is:
+
+- Java & Spring Boot backend development
+- REST APIs and microservices
+- Full-stack web development
+- Cloud and DevOps
+- AI-powered application development
+- Software testing and quality engineering
+
+Currently, I'm strengthening my skills in system design, distributed systems, AWS, and AI integration while preparing for professional software engineering roles in Canada.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/kriti-subedi-2aab50306" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-</p>
+### Backend
+Java • Spring Boot • Spring Security • REST APIs • JPA • Hibernate
 
----
+### Frontend
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-## 🛠️ Languages & Tools
+### Databases
+PostgreSQL • MySQL • Oracle • MongoDB • Redis
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,postman" />
-</p>
+### Cloud & DevOps
+AWS • Docker • Kubernetes • GitHub Actions • Jenkins • CI/CD
 
----
+### Testing
+JUnit • Mockito • JaCoCo • PIT Mutation Testing
 
-## 🚀 Current Projects
+### AI / ML
+Python • Machine Learning • NLP • LLM APIs • RAG • Vector Databases
 
-* 🔍 Review Guard – Fake Review Detection System
-* ☕ Java Practice Projects
-* 🌐 Frontend Web Development Projects
-* 🤖 AI/ML Learning Projects
+### Tools
+Git • GitHub • Postman • Maven • VS Code • IntelliJ IDEA
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true&theme=tokyonight"/>
-</p>
+### 🤖 ClearTech — AI Technical Interview Platform
+AI-powered interview coaching platform designed to evaluate technical-answer quality separately from communication delivery.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=kritisubedi1&theme=tokyonight"/>
-</p>
+**Tech:** Python • AI/NLP • REST APIs • Web Application Development
+
+---
+
+### 🔍 Review Guard — Fake Review Detection System
+Machine-learning application that classifies online reviews as genuine or fake using NLP and TF-IDF based models.
+
+**Tech:** Python • Flask • Scikit-learn • NLP • REST API
+
+---
+
+### 🧪 Inventory System — Software Testing & Mutation Analysis
+Spring Boot application focused on software verification and validation using unit testing, coverage analysis, and mutation testing.
+
+**Tech:** Java • Spring Boot • JUnit • Mockito • JaCoCo • PIT
+
+---
+
+### 🏦 Banking Management System
+Secure banking application supporting accounts, transactions, loans, and authentication.
+
+**Tech:** Java • Spring Boot • JWT • MySQL • React
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer Intern — EsseReale Robotics
+Worked on a production website platform using modern full-stack technologies and collaborative development workflows.
+
+**Highlights:**
+- Built and improved responsive web interfaces
+- Worked with Next.js, React, TypeScript, and Tailwind CSS
+- Contributed through GitHub issues, branches, and pull requests
+- Worked with CMS workflows and production deployment processes
+- Supported product storytelling and interactive website experiences
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java & Spring Boot
+- Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- AWS
+- Docker & Kubernetes
+- AI application development
+- RAG and vector databases
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kritisubedi1)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+- Software Engineering opportunities
+- Java / Backend roles
+- Full-Stack Development
+- AI-enabled application development
+- Technical collaborations
+
+📧 Email: your-email@example.com  
+💼 LinkedIn: add-your-link-here
