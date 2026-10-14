@@ -3,130 +3,169 @@
 ### Software Engineer | Java & Spring Boot | Backend Development | AI-Enabled Applications
 
 🎓 M.Eng. Software Engineering — Memorial University of Newfoundland  
-💻 Building scalable backend and full-stack applications  
-🤖 Exploring AI-enabled software, LLM integration, RAG, and intelligent systems  
-☁️ Interested in cloud-native development, distributed systems, and production software engineering
+💻 Building backend, full-stack, and AI-enabled applications  
+🤖 Interested in LLM integration, intelligent systems, and practical AI  
+☁️ Growing in cloud, distributed systems, and production software engineering  
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Software Engineering master's student with hands-on experience building modern web applications, backend services, APIs, and AI-enabled systems.
+I'm a Software Engineering master's student with hands-on experience building web applications, backend services, APIs, and AI-enabled systems.
 
-I enjoy solving real-world problems using software and turning ideas into reliable, maintainable applications.
+I enjoy solving real-world problems through software and turning ideas into reliable, maintainable applications.
 
-My primary focus is:
+My main focus areas are:
 
 - Java & Spring Boot backend development
-- REST APIs and microservices
-- Full-stack web development
-- Cloud and DevOps
-- AI-powered application development
-- Software testing and quality engineering
+- REST APIs and full-stack development
+- Cloud-native application development
+- AI-enabled software systems
+- Software testing and engineering quality
+- System design and distributed systems
 
-Currently, I'm strengthening my skills in system design, distributed systems, AWS, and AI integration while preparing for professional software engineering roles in Canada.
+I'm currently strengthening my skills in advanced Java, Spring Boot, AWS, system design, AI integration, and production-ready software development while preparing for full-time software engineering opportunities in Canada.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
-Java • Spring Boot • Spring Security • REST APIs • JPA • Hibernate
+Java • Spring Boot • REST APIs • Spring Security • JPA • Hibernate
 
 ### Frontend
 React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
 ### Databases
-PostgreSQL • MySQL • Oracle • MongoDB • Redis
-
-### Cloud & DevOps
-AWS • Docker • Kubernetes • GitHub Actions • Jenkins • CI/CD
-
-### Testing
-JUnit • Mockito • JaCoCo • PIT Mutation Testing
+PostgreSQL • MySQL • MongoDB • Redis
 
 ### AI / ML
-Python • Machine Learning • NLP • LLM APIs • RAG • Vector Databases
+Python • Machine Learning Fundamentals • NLP • LLM Integration
+
+### Cloud & DevOps
+AWS • Docker • GitHub Actions • Jenkins • CI/CD
+
+### Testing
+JUnit • Mockito • API Testing • Software Verification & Validation
 
 ### Tools
-Git • GitHub • Postman • Maven • VS Code • IntelliJ IDEA
+Git • GitHub • Postman • Maven • IntelliJ IDEA • VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 ClearTech — AI Technical Interview Platform
+
 AI-powered interview coaching platform designed to evaluate technical-answer quality separately from communication delivery.
 
-**Tech:** Python • AI/NLP • REST APIs • Web Application Development
+**Highlights**
+- Technical-question workflow
+- Audio-based interview sessions
+- Automated report generation
+- AI-assisted evaluation
+- Fairness-aware design
+
+**Tech:** Python • REST APIs • AI/NLP • Web Application Development
 
 ---
 
 ### 🔍 Review Guard — Fake Review Detection System
-Machine-learning application that classifies online reviews as genuine or fake using NLP and TF-IDF based models.
 
-**Tech:** Python • Flask • Scikit-learn • NLP • REST API
+Machine-learning application that detects whether online reviews are genuine or fake using NLP and TF-IDF based classification models.
+
+**Highlights**
+- Text preprocessing and NLP pipeline
+- Multiple ML models
+- Prediction API
+- Batch processing
+- Model evaluation
+
+**Tech:** Python • Flask • Scikit-learn • NLP • TF-IDF • REST API
 
 ---
 
-### 🧪 Inventory System — Software Testing & Mutation Analysis
-Spring Boot application focused on software verification and validation using unit testing, coverage analysis, and mutation testing.
+### ♟️ Chess IntelliPlay
 
-**Tech:** Java • Spring Boot • JUnit • Mockito • JaCoCo • PIT
+Interactive AI-assisted game project focused on search and pathfinding logic.
+
+**Highlights**
+- Algorithm-based decision making
+- Interactive game interface
+- JavaScript-based implementation
+
+**Tech:** JavaScript • Algorithms • Web Development
 
 ---
 
-### 🏦 Banking Management System
-Secure banking application supporting accounts, transactions, loans, and authentication.
+### 🛒 MUN Marketplace
 
-**Tech:** Java • Spring Boot • JWT • MySQL • React
+Marketplace-style web project built for users to browse and interact with listings.
+
+**Highlights**
+- User-facing web interface
+- Responsive layout
+- Marketplace-style functionality
+
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 💼 Professional Experience
 
 ### Full Stack Developer Intern — EsseReale Robotics
-Worked on a production website platform using modern full-stack technologies and collaborative development workflows.
 
-**Highlights:**
+Contributed to a production website platform using modern full-stack technologies and collaborative software-development workflows.
+
+**Highlights**
 - Built and improved responsive web interfaces
 - Worked with Next.js, React, TypeScript, and Tailwind CSS
 - Contributed through GitHub issues, branches, and pull requests
-- Worked with CMS workflows and production deployment processes
-- Supported product storytelling and interactive website experiences
+- Worked with CMS-driven content workflows
+- Supported website performance and deployment workflows
+- Contributed to product-focused storytelling and interactive web experiences
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Java & Spring Boot
+- Advanced Java
+- Spring Boot
 - Data Structures & Algorithms
 - System Design
 - Distributed Systems
 - AWS
-- Docker & Kubernetes
+- Docker
+- Kubernetes fundamentals
 - AI application development
 - RAG and vector databases
 
 ---
 
+## 🎯 Career Focus
+
+I'm currently preparing for opportunities in:
+
+- Software Engineering
+- Java Backend Development
+- Full-Stack Development
+- Cloud Application Development
+- AI-Enabled Software Engineering
+
+---
+
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true)
+![Kriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritisubedi1&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kritisubedi1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kritisubedi1&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to:
+I'm open to software engineering opportunities, technical collaborations, and interesting software projects.
 
-- Software Engineering opportunities
-- Java / Backend roles
-- Full-Stack Development
-- AI-enabled application development
-- Technical collaborations
-
-📧 Email: your-email@example.com  
-💼 LinkedIn: add-your-link-here
+📍 Newfoundland and Labrador, Canada  
+💼 LinkedIn: ADD-YOUR-LINK  
+📧 Email: ADD-YOUR-PROFESSIONAL-EMAIL
