@@ -1,18 +1,18 @@
 <!-- ============================================================
      Profile README for github.com/kritisubedi1
      Repo must be named: kritisubedi1/kritisubedi1
-     Put header.svg in: assets/header.svg
+     header.svg sits in the repo root
      Replace every YOUR_... placeholder before publishing.
      ============================================================ -->
 
 <div align="center">
-<img src="header.svg"alt="Kriti Subedi — Software Engineer, Java & Spring Boot, Full Stack, AI-Enabled Applications" width="100%"/>
+
+<img src="header.svg" alt="Kriti Subedi — Software Engineer, Java & Spring Boot, Full Stack, AI-Enabled Applications" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2328" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-E8B46B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2328" alt="Email"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2328" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kriti-subedi-2aab50306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2328" alt="LinkedIn"/></a>
+<a href="mailto:kreetesubeede123@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-E8B46B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2328" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Open%20to-Co--op%20%26%20Full--time-8957E5?style=for-the-badge&labelColor=1F2328" alt="Open to opportunities"/>
 
 <br/><br/>
@@ -190,8 +190,7 @@ I'm open to **software engineering, backend, full-stack, and AI-application role
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-E8B46B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kriti-subedi-2aab50306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kreetesubeede123@gmail.com"><img src="https://img.shields.io/badge/Email-E8B46B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
