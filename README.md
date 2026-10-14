@@ -76,6 +76,27 @@ I'm a **Software Engineering master's student at Memorial University of Newfound
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🧪 Inventory System + Mutation Testing</h3>
+      <sub><b>SPRING BOOT API · SOFTWARE VERIFICATION &amp; VALIDATION</b></sub>
+      <p>A Spring Boot inventory REST API built to show that <b>high code coverage doesn't guarantee effective tests</b>. Using PIT mutation testing, we found weak tests that passed at 67% coverage, then rewrote them with equivalence partitioning, boundary value analysis, and category-partition testing.</p>
+      <ul>
+        <li>Raised the <b>mutation score from 68% to 100%</b> and line coverage from 67% to 100%, growing the suite from 9 to 24 tests</li>
+        <li>Found a surviving mutant where a test checked the exception type but not its message, then killed it with a stronger assertion</li>
+        <li>Built an analysis endpoint that reads the PIT report and explains surviving mutants, with optional Claude API summaries</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mockito-1F2328?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PIT-E8B46B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JaCoCo-1F2328?style=flat-square"/>
+      <img src="https://img.shields.io/badge/H2-1F2328?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/kritisubedi1/inventory-mutation-testing"><b>View repo →</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 ClearTech</h3>
       <sub><b>FAIRNESS-AWARE TECHNICAL INTERVIEW COACH</b></sub>
